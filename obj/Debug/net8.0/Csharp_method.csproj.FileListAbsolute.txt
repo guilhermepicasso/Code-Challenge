@@ -1,0 +1,14 @@
+/home/guipicasso/test/EstudoSharp/bin/Debug/net8.0/Csharp_method
+/home/guipicasso/test/EstudoSharp/bin/Debug/net8.0/Csharp_method.deps.json
+/home/guipicasso/test/EstudoSharp/bin/Debug/net8.0/Csharp_method.runtimeconfig.json
+/home/guipicasso/test/EstudoSharp/bin/Debug/net8.0/Csharp_method.dll
+/home/guipicasso/test/EstudoSharp/bin/Debug/net8.0/Csharp_method.pdb
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/Csharp_method.GeneratedMSBuildEditorConfig.editorconfig
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/Csharp_method.AssemblyInfoInputs.cache
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/Csharp_method.AssemblyInfo.cs
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/Csharp_method.csproj.CoreCompileInputs.cache
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/Csharp_method.dll
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/refint/Csharp_method.dll
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/Csharp_method.pdb
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/Csharp_method.genruntimeconfig.cache
+/home/guipicasso/test/EstudoSharp/obj/Debug/net8.0/ref/Csharp_method.dll
